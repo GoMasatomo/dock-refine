@@ -1,4 +1,4 @@
-# Protein-Protein Docking Pipeline
+# Dock-Refine
 
 このプロジェクトは、タンパク質間ドッキングのための自動化パイプラインです。ZDOCK、HADDOCK、GROMACSなどのツールを使用して、効率的なタンパク質-タンパク質相互作用の予測を行います。
 
